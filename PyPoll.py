@@ -73,11 +73,11 @@ with open(file_to_save,"w") as txt_file:
                 print(candidate_results)
                 txt_file.write(candidate_results)
                 
-                if (votes>winning_count) and (winning_percentage>winning_count): 
+                if (votes>winning_count) and (vote_percentage>winning_percentage): 
                         # if true then set winning count = to votes and winning percentage = vote percentage
-                                winning_count=votes
-                                winning_percentage=vote_percentage
-                                winning_candidate=candidate_name
+                        winning_count=votes
+                        winning_percentage=vote_percentage
+                        winning_candidate=candidate_name
         ## print out each canidates name, vote count and percentage of votes
         winning_candidate_summary=(
                 f"--------------------------\n"
