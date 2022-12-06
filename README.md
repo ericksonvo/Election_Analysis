@@ -1,7 +1,7 @@
 # Election_Analysis
 This analysis collects data to see which Candidate won the election by collecting voting results from 3 counties: Arapahoe, Denver, and Jefferson. It will also showcase how many votes each candidate acquired as well as how many votes each county placed. 
-## Election-Audit Results:
-***1. How many votes were cast in this congressional election?***
+# Election-Audit Results:
+## ***1. How many votes were cast in this congressional election?***
 - There were a total of 369,711 votes casted in this election
 
 ***2. Number of votes and percentage for each County:***
