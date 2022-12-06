@@ -1,2 +1,17 @@
 # Election_Analysis
-will use python and VS Code
+This analysis collects data to see which Candidate won the election by collecting voting results from 3 counties: Arapahoe, Denver, and Jefferson. It will also showcase how many votes each candidate acquired as well as how many votes each county placed. 
+## Election-Audit Results:
+1. How many votes were cast in this congressional election? 
+-There were a total of 369,711 votes casted in this election
+
+2. Number of votes and percentage for each County.
+- Jefferson: 10.5% (38,855), Jefferson County casted 38,855 votes. In which, was 10.5% of total votes casted
+
+- Denver: 82.8% (306,055), Denver County casted 306,055 votes. In which, was 82.8% of total votes casted
+
+- Arapahoe: 6.7% (24,801), Jefferson County casted 24,801 votes. In which, was 6.7% of total votes casted
+
+3. County with largest number of votes:
+- Devner
+
+4.
