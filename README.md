@@ -4,7 +4,7 @@ This analysis collects data to see which Candidate won the election by collectin
 ## ***1. How many votes were cast in this congressional election?***
 - There were a total of 369,711 votes casted in this election
 
-***2. Number of votes and percentage for each County:***
+## ***2. Number of votes and percentage for each County:***
   - ***Jefferson: 10.5% (38,855 <sup>votes</sup>)***  
    <sub>(Jefferson County casted 38,855 votes. In which, was 10.5% of total votes casted.)</sub>
 
