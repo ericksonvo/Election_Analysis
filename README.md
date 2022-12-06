@@ -23,7 +23,8 @@ This analysis collects data to see which Candidate won the election by collectin
 
   - Diana DeGette: 73.8% (272,892)  
   <sub>(Diana DeGette received 272,892 votes. In which was 73.8% of total votes casted.)</sub>
-  - Raymon Anthony Doane: 3.1% (11,606)  
+ 
+ - Raymon Anthony Doane: 3.1% (11,606)  
   <sub>(Raymon Anthony Doan received 11,606 votes. In which was 3.1% of total votes casted.)</sub>
 
 ***5.Winning Candidate:***
