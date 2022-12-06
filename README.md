@@ -5,10 +5,11 @@ This analysis collects data to see which Candidate won the election by collectin
 - There were a total of 369,711 votes casted in this election
 
 ***2. Number of votes and percentage for each County:***
-  - Jefferson: 10.5% (38,855),  
+  - Jefferson: 10.5% (38,855)  
    <sub>Jefferson County casted 38,855 votes. In which, was 10.5% of total votes casted</sub>
 
-  - Denver: 82.8% (306,055),  Denver County casted 306,055 votes. In which, was 82.8% of total votes casted
+  - Denver: 82.8% (306,055) 
+  - <sub>Denver County casted 306,055 votes. In which, was 82.8% of total votes casted</sub>
 
   - Arapahoe: 6.7% (24,801),  Jefferson County casted 24,801 votes. In which, was 6.7% of total votes casted
 
