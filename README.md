@@ -5,26 +5,26 @@ This analysis collects data to see which Candidate won the election by collectin
 - There were a total of 369,711 votes casted in this election
 
 ***2. Number of votes and percentage for each County:***
-  - ***Jefferson: 10.5% (38,855)***  
+  - ***Jefferson: 10.5% (38,855<sup>votes</sup>)***  
    <sub>(Jefferson County casted 38,855 votes. In which, was 10.5% of total votes casted.)</sub>
 
-  - Denver: 82.8% (306,055) 
+  - ***Denver: 82.8% (306,055)*** 
    <sub>(Denver County casted 306,055 votes. In which, was 82.8% of total votes casted.)</sub>
 
-  - Arapahoe: 6.7% (24,801)  
-   ***<sub>(Jefferson County casted 24,801 votes. In which, was 6.7% of total votes casted.)</sub>***
+  - ***Arapahoe: 6.7% (24,801)***  
+   <sub>(Jefferson County casted 24,801 votes. In which, was 6.7% of total votes casted.)</sub>
 
 ***3. County with largest number of votes:***
   - Devner
 
 ***4. Number of votes and percentage each Candidate received:***
-  - Charles Casper Stockham: 23.0% (85,213)  
+  - ***Charles Casper Stockham: 23.0% (85,213)***  
   <sub>(Charles Casper Stockham received 85,213 votes. In which was 23.0% of total votes casted.)</sub>
 
-  - Diana DeGette: 73.8% (272,892)  
+  - ***Diana DeGette: 73.8% (272,892)***  
   <sub>(Diana DeGette received 272,892 votes. In which was 73.8% of total votes casted.)</sub>
  
- - Raymon Anthony Doane: 3.1% (11,606)  
+ - ***Raymon Anthony Doane: 3.1% (11,606)***  
   <sub>(Raymon Anthony Doan received 11,606 votes. In which was 3.1% of total votes casted.)</sub>
 
 ***5.Winning Candidate:***
